@@ -1,0 +1,14 @@
+Crea il progetto django.
+Dentro virtualenv crea una cartella src, qui crea il progetto django:
+Comandi:
+django-admin startproject trydjango
+python manage.py runserver   # fa partire il web server di django
+
+Struttura files con i folders:
+E:\MassimoPyCharmProjects\trydjango\venv\src\trydjango\trydjango\settings.py
+E:\MassimoPyCharmProjects\trydjango\venv\src\trydjango\pages\views.py
+E:\MassimoPyCharmProjects\trydjango\venv\src\trydjango\templates\home.html
+E:\MassimoPyCharmProjects\trydjango\venv\src\trydjango\trydjango\urls.py
+
+
+
