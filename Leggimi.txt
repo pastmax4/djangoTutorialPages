@@ -9,7 +9,10 @@ E:\MassimoPyCharmProjects\trydjango\venv\src\trydjango\trydjango\settings.py
 E:\MassimoPyCharmProjects\trydjango\venv\src\trydjango\pages\views.py
 E:\MassimoPyCharmProjects\trydjango\venv\src\trydjango\templates\home.html
 E:\MassimoPyCharmProjects\trydjango\venv\src\trydjango\templates\about.html
+E:\MassimoPyCharmProjects\trydjango\venv\src\trydjango\templates\base.html
 E:\MassimoPyCharmProjects\trydjango\venv\src\trydjango\trydjango\urls.py
+
+
 
 
 
