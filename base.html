@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
+<!--  30apr2019 massimo -->
 <head>
     <meta charset="UTF-8">
-    <title>Title. Code from tutorial.</title>
+    <title>Prova pagina di Massimo</title>
 </head>
 <body>
-    {% include 'navbar.html' %}
+{% extends 'base.html' %}
+<h1>Ciao da Massimo. This is a tamplate. </h1>
+<p>{{request.user}}</p>
 
-    <h1>This is a navbar old (base.html) by massimo.</h1>
-    {% block content %}
-     replace me
-    {% endblock %}
 </body>
 </html>
